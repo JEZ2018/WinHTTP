@@ -1,5 +1,4 @@
-(*
-  |******************************************************************}
+  |------------------------------------------------------------------|
   |                                                                  |
   | Pascal API for direct access to microsofts "winhttp.dll"         |
   |                                                                  |
@@ -28,14 +27,7 @@
   | implied. See the License for the specific language governing     |
   | rights and limitations under the License.                        |
   |                                                                  |
-  |******************************************************************}
-*)
-{
-@author(Martin Offenwanger: coder@dsplayer.de)
-@created(Sep 06, 2010)
-@lastmod(Sep 06, 2010)
-}
-
+  |------------------------------------------------------------------|
 
 
 
